@@ -1,4 +1,0 @@
-#!/bin/sh
-
-sed -i 's/^initramfs.*//g' /boot/config.txt
-

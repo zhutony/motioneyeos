@@ -1,1 +1,0 @@
-../raspberrypi/cpinitramfs.sh
