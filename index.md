@@ -15,3 +15,6 @@ Check out the list of [supported devices](https://github.com/ccrisan/motioneyeos
 
 Then follow the [installation instructions](https://github.com/ccrisan/motioneyeos/wiki/Installation) to extract and write the image file to the SD card.
 
+## Privacy Policy
+
+You can read our privacy policy [here](https://ccrisan.github.io/motioneyeos/privacy-policy.html).
